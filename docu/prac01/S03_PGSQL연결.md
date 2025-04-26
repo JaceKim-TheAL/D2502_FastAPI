@@ -5,3 +5,9 @@
 - S03. [PGSQL연결  ](./S03_PGSQL연결.md)
 
 ---
+
+### S03_PGSQL연결 : Database 연동
+
+- Database는 `PostgreSQL` 을 사용
+> 설치 및 사용법 : [PostgreSQL](https://github.com/JaceKim-TheAL/D2502_PostgreSQL)
+

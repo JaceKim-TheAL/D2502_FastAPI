@@ -9,6 +9,8 @@ step01.
 step02. controller 추가
 
 '''
+# main.py
+
 from fastapi import FastAPI
 from typing import Union
 from controller import items

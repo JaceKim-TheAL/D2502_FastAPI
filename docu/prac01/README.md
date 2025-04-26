@@ -1,6 +1,6 @@
 ## 실습1
 
-- 가상환경 셋팅
+- Setting : 가상환경 구동 및 패키지 설치
 ```
 PS C:\GitHub\D2502_FastAPI\code> mkdir prac01
 PS C:\GitHub\D2502_FastAPI\code> cd .\prac01\

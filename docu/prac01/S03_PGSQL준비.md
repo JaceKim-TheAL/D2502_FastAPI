@@ -8,6 +8,9 @@
 ---
 
 ### S03_PGSQL준비 : 설치 및 구동
+> - PostgreSQL DB 설치
+> - PostgreSQL DB 구동
+---
 
 - Database는 `PostgreSQL` 을 사용
 > 오픈 소스 객체-관계형 데이터베이스 관리 시스템(ORDBMS)

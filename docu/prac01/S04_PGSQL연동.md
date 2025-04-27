@@ -7,7 +7,7 @@
 ---
 
 ### S04_PGSQL연동 : python으로 DB 핸들링
-> - config     : DB접속을 위한 환경변수 셋팅팅
+> - config     : DB접속을 위한 환경변수 셋팅
 > - controller : 비즈니스 로직 처리, 웹페이지 경로 설정
 > - model      : DB와 연동시 주고받는 데이터모델
 ---

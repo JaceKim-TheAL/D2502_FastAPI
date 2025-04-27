@@ -144,20 +144,22 @@ INFO:     Application startup complete.
 - 실행결과 : 
 > http://localhost:8000/list
 ```
-{
-    admin_no: 1,
-    login_id: "hong_gd",
-    passwd: "hong123",
-    nick: "홍길동",
-    email: "hong@gmail.com"
-},
-{
-    admin_no: 2,
-    login_id: "jang_nr",
-    passwd: "jang123",
-    nick: "장나라",
-    email: "jang@gmail.com"
-}
+[
+    {
+        admin_no: 1,
+        login_id: "hong_gd",
+        passwd: "hong123",
+        nick: "홍길동",
+        email: "hong@gmail.com"
+    },
+    {
+        admin_no: 2,
+        login_id: "jang_nr",
+        passwd: "jang123",
+        nick: "장나라",
+        email: "jang@gmail.com"
+    }
+]
 
 ```
 

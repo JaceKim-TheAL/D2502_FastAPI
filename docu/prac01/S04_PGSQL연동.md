@@ -168,7 +168,7 @@ INFO:     Application startup complete.
 ```
 
 
-### 실습1-5. 프로시저로 호출출 
+### 실습1-5. 프로시저로 호출
 ---
 - 코드작성 
 > [model/pgsql_test.py]
